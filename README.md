@@ -38,24 +38,38 @@ I don't look at product features purely through a UX lens; I evaluate them throu
 
 ---
 
-### 📦 FEATURED CASE STUDY
+### 📦 FEATURED CORE PROJECTS
 
 <br />
 
 <h3 style="font-size: 22px; font-weight: 700; color: #111111; margin-bottom: 5px;">
-  Transforming the Nintendo eShop into an AI-Powered Discovery Hub
+  1. Transforming the Nintendo eShop into an AI-Powered Discovery Hub
 </h3>
 
-<p style="color: #52525b; font-size: 15px; margin-bottom: 15px;">
+<p style="color: #52525b; font-size: 15px; margin-bottom: 10px; max-width: 700px;">
   <b>The Challenge:</b> The Nintendo eShop functions as a flat, transactional checkout counter rather than a discovery hub, causing massive user browsing fatigue and completely burying high-margin indie titles.
 </p>
 
-* **Wishlist (Private & Transactional)** &mdash; *"I want to buy this title later."* Tracks immediate buying intent and checkout funnels.
-* **Game Stash (Public & Curational)** &mdash; *"Look at what I have curated."* Acts as a digital trophy shelf to drive community validation and long-tail indie discovery.
-
-<br />
+* 🏷️ **Wishlist (Private & Transactional)** &mdash; *"I want to buy this title later."* Tracks immediate buying intent and checkout funnels.
+* 🎒 **Game Stash (Public & Curational)** &mdash; *"Look at what I have curated."* Acts as a digital trophy shelf to drive community validation and long-tail indie discovery.
 
 👉 **[Read the Full Executive Case Study & View Prototype Layouts](./nintendo-eshop-case-study.md)**
+
+<br />
+<br />
+
+<h3 style="font-size: 22px; font-weight: 700; color: #111111; margin-bottom: 5px;">
+  2. HeartTunes: VR Rhythm Game for Emotional Self-Management
+</h3>
+
+<p style="color: #52525b; font-size: 15px; margin-bottom: 10px; max-width: 700px;">
+  <b>The Challenge:</b> Traditional adolescent socioemotional training modules suffer from high user disengagement. This project designed a native Unity prototype on Oculus Quest that transforms rhythms and tactile inputs into visceral tools for user regulation.
+</p>
+
+* 🌐 **Cross-Functional Strategy:** Partnered with international educators at Coschool Colombia to map user journeys into structural classroom lesson plans.
+* 📈 **Industry Recognition:** Formally invited to present custom tactile interaction patterns and behavioral research at the international **IEEE GEM 2022** conference.
+
+👉 **[Read the Complete VR Research Case Study](./hearttunes-vr-case-study.md)** 🎬 **[Watch Live Prototype Demo](https://www.youtube.com/watch?v=rQA7TucOOrc)**
 
 <br />
 <br />
