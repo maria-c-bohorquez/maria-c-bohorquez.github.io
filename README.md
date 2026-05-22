@@ -11,8 +11,8 @@
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; border-collapse: collapse;">
   <tr>
     <td align="left" style="font-size: 14px; font-weight: 600; padding: 5px 0;">
-      <a href="./#projects-section" style="color: #111111; text-decoration: none; margin-right: 25px;">📁 Projects</a>
-      <a href="./resume.html" style="color: #111111; text-decoration: none; margin-right: 25px;">📄 Resume</a>
+      <a href="./#projects-section" style="color: #111111; text-decoration: none; margin-right: 75px;">📁 Projects</a>
+      <a href="./resume.html" style="color: #111111; text-decoration: none; margin-right: 75px;">📄 Resume</a>
       <a href="https://linkedin.com" target="_blank" style="color: #111111; text-decoration: none;">📥 Contact</a>
     </td>
   </tr>
