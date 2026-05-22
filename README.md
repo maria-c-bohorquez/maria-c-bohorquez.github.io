@@ -1,5 +1,15 @@
 <br />
-<br />
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; border-collapse: collapse;">
+  <tr>
+    <td align="left" style="font-size: 14px; font-weight: 600; letter-spacing: 1px; text-transform: uppercase;">
+      <a href="./#projects-section" style="color: #111111; text-decoration: none; margin-right: 25px;">📁 Projects</a>
+      <a href="./resume.html" style="color: #111111; text-decoration: none; margin-right: 25px;">📄 Resume</a>
+      <a href="https://linkedin.com" target="_blank" style="color: #111111; text-decoration: none;">📥 Contact</a>
+    </td>
+  </tr>
+</table>
+
+<hr style="border: 0; border-top: 1px solid #e4e4e7; margin: 20px 0 40px 0;" />
 
 <p align="left" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
   <span style="font-size: 13px; font-weight: 700; letter-spacing: 2px; color: #71717a; text-transform: uppercase;">Product Management Portfolio</span>
@@ -38,6 +48,7 @@ I don't look at product features purely through a UX lens; I evaluate them throu
 
 ---
 
+<div id="projects-section"></div>
 ### 📦 FEATURED CORE PROJECTS
 
 <br />
@@ -66,18 +77,4 @@ I don't look at product features purely through a UX lens; I evaluate them throu
 👉 **[Read the Complete VR Research Case Study](./hearttunes-vr-case-study.html)**
 
 <br />
-<br />
-
----
-
-### 📄 DIRECTORY
-
-<br />
-
-<p align="left" style="font-size: 16px; font-weight: 600;">
-  📌 &nbsp;<b><a href="./resume.html" style="color: #111111; text-decoration: underline;">Open Full Professional Resume</a></b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  📥 &nbsp;<b><a href="https://linkedin.com" target="_blank" style="color: #111111; text-decoration: underline;">Connect on LinkedIn</a></b>
-</p>
-
 <br />
