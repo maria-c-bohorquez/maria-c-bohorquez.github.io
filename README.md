@@ -21,15 +21,19 @@
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; border-collapse: collapse;">
   <tr>
+    <table width="100%" border="0" cellpadding="0" cellspacing="0" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; border-collapse: collapse;">
+  <tr>
     <td width="72%" valign="top" align="left">
       <h2 style="font-size: 22px; font-weight: 700; color: #111111; margin-top: 0; margin-bottom: 15px;">Hey, I'm Maria!</h2>
       <p style="font-size: 16px; line-height: 1.6; color: #3f3f46; margin: 0; padding-right: 20px;">
         I don’t just manage products—<b>I tame complex systems.</b> Where others see operational friction, unstructured data, or chaotic workflows, I see an optimization puzzle waiting to be solved. My professional baseline is a relentless drive to streamline processes, maximize resources, and transform manual headaches into scalable, digital realities.
       </p>
     </td>
-    <td width="28%" valign="top" align="right">
-      <img src="maria.jpg" alt="Maria Camila Bohorquez" width="160" style="border-radius: 6px; display: block; object-fit: cover;" />
+    <td width="28%" valign="middle" align="center">
+      <img src="maria.jpg" alt="Maria Camila Bohorquez" width="160" style="border-radius: 6px; display: inline-block; object-fit: cover;" />
     </td>
+  </tr>
+</table>
   </tr>
 </table>
 
